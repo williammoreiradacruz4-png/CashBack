@@ -1,0 +1,8 @@
+{
+  "name": "CashBack",
+  "description": "Painel interativo para acompanhar o desafio dos 100 depósitos e alcançar a meta de R$ 6.000.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
